@@ -10,7 +10,7 @@ In order to complete this test you have to follow these steps:
 
 Fork this repository to your computer or just download the source.
 
-Install Symfony (follow INSTALL.md instructions).
+Install Symfony (composer, etc..)
 
 Create a test database:
 
