@@ -69,6 +69,6 @@ All these pages have to be connected between them (simple link) and all the opti
 
 Feel free to add or modify whatever you like on this sample app to simply show us some coding magic ;)
 
-Send us your repository link to check the solution, or just email us your source code: jmadrid[at]omitsis[dot]com.
+Send us your repository link to check the solution, or just email us your source code: info[at]omitsis[dot]com.
 
 Good luck! 
